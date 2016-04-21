@@ -1,2 +1,2 @@
 # yii2-cache-mutex
-CacheMutex for Yii2
+Yii2 CacheMutex component implements mutex "lock" mechanism via cache component.

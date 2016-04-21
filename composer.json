@@ -1,0 +1,24 @@
+{
+    "name": "intersvyaz/yii2-cache-mutex",
+    "description": "CacheMutex for Yii2",
+    "keywords": [
+        "yii2",
+        "mutex"
+    ],
+    "homepage": "https://github.com/intersvyaz/yii2-cache-mutex.git",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=5.4.0",
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {"Intersvyaz\\CacheMutex\\": ""}
+    },
+    "authors": [
+        {
+            "name": "Nikolay Filipp",
+            "email": "i@kikimor.ru"
+        }
+    ]
+}
